@@ -20,6 +20,11 @@ svg {
   fill: #0d1117;
   stroke-width: 0.5px;
 }
+  
+#gh-catppuccin-machiato:target #background {
+  fill: #181926;
+  stroke-width: 0.5px;
+}
 
 foreignObject {
   width: calc(100% - 10px - 32px);
