@@ -22,7 +22,7 @@ svg {
 }
   
 #gh-catppuccin-machiato:target #background {
-  fill: #181926;
+  fill: #24273a;
   stroke-width: 0.5px;
 }
 
